@@ -1,7 +1,7 @@
 # PHP Developer Challenge
 
 You need to write a PHP script to properly import the CSV file into a MySQL database.
-You are free to use Composer to install any library but shouldn't install any framework to write this script.
+You are free to use Composer to install any library (like PhpSpreadsheet) but shouldn't install any framework (like Laravel) to write this script.
 
 We expect you to finish this assessment in the following three days after the interview.
 
